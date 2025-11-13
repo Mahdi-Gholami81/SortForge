@@ -10,6 +10,11 @@ You simply run the script, select the folder you want to organize through the po
 - Organizes by file name and creation date
 - Easy-to-use, interactive folder selection
 
+## 🚧 Work in Progress
+This project is still under development.  
+Some features are not fully implemented yet and improvements will be added over time.  
+Feedback and contributions are welcome!
+
 ## 💻 How to Use
 1. Open PowerShell.
 2. Navigate to the project folder:
